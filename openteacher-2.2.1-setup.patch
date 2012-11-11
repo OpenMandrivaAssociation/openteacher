@@ -1,0 +1,25 @@
+Description: Correct version number typo
+Author: Charlie Smotherman <cjsmo@cableone.net>
+
+Index: openteacher-2.2/setup.py
+===================================================================
+--- openteacher-2.2.orig/setup.py	2011-10-10 16:11:21.012307878 -0500
++++ openteacher-2.2/setup.py	2011-10-10 16:12:20.932307867 -0500
+@@ -22,7 +22,7 @@
+ 
+ def main():
+     setup(
+-        version = "2.0",
++        version = "2.2",
+         name = "openteacher", # lower case name needed
+         description = "Learn words in a foreign language.",
+         author = "OpenTeacher Maintainers",
+@@ -42,7 +42,7 @@
+ 
+ Enter a list of words in both a known and a foreign language, and OpenTeacher tests you.
+ 
+-OpenTeacher 2.0 has the following features:
++OpenTeacher 2.2 has the following features:
+ * Smart question asking
+ * Think answer, shuffle answer and repeat answer input modes
+ * Easy symbol and Greek input

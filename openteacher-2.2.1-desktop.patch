@@ -1,0 +1,21 @@
+Description: Fixes typo and Version.
+Author: Charlie Smotherman <cjsmo@cableone.net>
+
+Index: openteacher-2.2/linux/openteacher.desktop
+===================================================================
+--- openteacher-2.2.orig/linux/openteacher.desktop	2011-10-17 23:39:23.685134402 -0500
++++ openteacher-2.2/linux/openteacher.desktop	2011-10-17 23:40:56.121134911 -0500
+@@ -1,5 +1,5 @@
+ [Desktop Entry]
+-Version=2.1
++Version=1.0
+ Name=OpenTeacher
+ Comment=Learn words in a foreign language.
+ GenericName=Vocabulary Trainer
+@@ -8,4 +8,4 @@
+ Type=Application
+ Exec=openteacher
+-Categories=Education;Qt;
+-MimeType=application/x-openteacher;applications/x-wrts;application/x-teach2000;
++Categories=Education;Languages;Qt;
++MimeType=application/x-openteacher;application/x-wrts;application/x-teach2000;
