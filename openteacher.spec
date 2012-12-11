@@ -64,3 +64,14 @@ OpenTeacher has the following features:
 %{_iconsdir}/hicolor/*/apps/%{name}.png
 %{_iconsdir}/hicolor/*/mimetypes/application*.png
 
+
+
+%changelog
+* Tue Nov 15 2011 Andrey Bondrov <abondrov@mandriva.org> 2.2.1-2mdv2011.0
++ Revision: 730716
+- Change category in XDG menu (Education -> Education/Languages)
+
+* Mon Nov 14 2011 Andrey Bondrov <abondrov@mandriva.org> 2.2.1-1
++ Revision: 730539
+- imported package openteacher
+
