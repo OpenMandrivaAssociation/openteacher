@@ -1,6 +1,6 @@
 Name:		openteacher
 Version:	2.2.1
-Release:	%mkrel 2
+Release:	3
 Summary:	An application that helps you learn a foreign language
 License:	GPLv3+
 Group:		Education
