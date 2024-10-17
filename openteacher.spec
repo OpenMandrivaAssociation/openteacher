@@ -4,7 +4,7 @@ Release:	3
 Summary:	An application that helps you learn a foreign language
 License:	GPLv3+
 Group:		Education
-URL:		http://openteacher.org/
+URL:		https://openteacher.org/
 Source0:	http://launchpad.net/openteacher/2.x/2.2/+download/%{name}-%{version}.tar.gz
 Patch0:		openteacher-2.2.1-desktop.patch
 Patch1:		openteacher-2.2.1-setup.patch
